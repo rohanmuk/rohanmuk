@@ -1,6 +1,6 @@
 # Rohan Mukherjee
 
-Control management analyst at Wells Fargo, covering Wealth & Investment Management and CIB Operations. I build institutional-style portfolio analytics in Python — the kind of tooling that sits behind an allocation decision or a performance review meeting. CFA Level I candidate, November 2026.
+Control management analyst at Wells Fargo, covering Wealth & Investment Management and CIB Operations. I build institutional-style portfolio analytics in Python - the kind of tooling that sits behind an allocation decision or a performance review meeting. CFA Level I candidate, November 2026.
 
 The through-line across these projects: **implement the math from its formula, then prove it.** Every metric is written out explicitly rather than pulled from a library, unit-tested against hand-computed values, and cross-checked against an established package only as an independent reference. Reconciliation identities are asserted, not assumed. Assumptions and limitations are stated in the README rather than buried.
 
